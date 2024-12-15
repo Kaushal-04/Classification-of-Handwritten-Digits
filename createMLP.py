@@ -1,5 +1,6 @@
 # create and train MLP 
 # Train an MLP classifier using sklearn.neural_network.MLPClassifier
+from loadDataSet import X_train, y_train
 
 from sklearn.neural_network import MLPClassifier
 
